@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\bin\Debug\net6.0\ProjetoPedidos.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\bin\Debug\net6.0\ProjetoPedidos.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\bin\Debug\net6.0\ProjetoPedidos.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\bin\Debug\net6.0\ProjetoPedidos.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\bin\Debug\net6.0\ProjetoPedidos.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\refint\ProjetoPedidos.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ProjetoPedidos.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Curso C# Completo\Projetos_Curso\ProjetoPedidos\obj\Debug\net6.0\ref\ProjetoPedidos.dll
